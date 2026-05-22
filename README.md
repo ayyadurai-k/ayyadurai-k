@@ -25,5 +25,6 @@ I build scalable backend systems, mobile apps, and CI/CD infrastructure. Major c
 
 ## Get in touch
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayyadurai-k/)
 - 📧 kmayyadurai286@gmail.com
 - 📍 Madurai, Tamil Nadu, India
